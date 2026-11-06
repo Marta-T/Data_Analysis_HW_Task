@@ -1,5 +1,5 @@
 # AlphaWind performance analysis
-*Period: [first – last date in the data], 6 turbines
+*Period: [2026-03-01 – 2026-03-07], 6 turbines
 
 ## Summary
 During the week, AlphaWind produced **642.3 MWh**. Given the wind conditions, it could have produced

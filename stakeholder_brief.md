@@ -30,7 +30,7 @@ The stop records are also incomplete: some park-wide stops were not recorded for
 | Unexplained | 1,199 | 1.6 |
 | **Total** | **74,488** | **100** |
 
-![Daily energy loss by cause](figures/daily_loss_by_cause.png)
+![Daily energy loss by cause](reports/figures/daily_loss_by_cause.png)
 *Daily energy loss by cause.*
 
 **How the losses were estimated.** First, I estimated how much a turbine normally produces at each

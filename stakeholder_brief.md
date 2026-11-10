@@ -4,7 +4,8 @@ Period: 2026-03-01 – 2026-03-07, 6 turbines
 ## Summary
 During the week, AlphaWind produced **642.3 MWh**. Given the wind conditions, it could have produced
 **719.8 MWh**, so **77.5 MWh (10.8%)** was not produced. Of this, **74.5 MWh (10.3%)** can be linked to
-a specific cause; the remaining 3.0 MWh is within the margin of error of the estimate.
+a specific cause; the remaining 3.0 MWh is due to small daily differences between actual and expected 
+energy production.
 
 Most of the lost energy (**84%**) was caused by factors outside the park's control: turbines
 switching off in very strong wind (**49%**) and limits set by the electricity grid (**36%**).
@@ -81,9 +82,9 @@ turbines' records, wind speed and production:
   week, but the turbine information lists their last service as 120 and 65 days ago. Either this
   maintenance was not a full service, or the service dates were not updated.
 
-These corrections moved **3,368 kWh** from "Unexplained" to a known cause: **1,853 kWh** to grid
-limitation and **1,515 kWh** to strong wind. The total loss did not change, which shows the
-corrections only moved losses between causes. Of the remaining **1,199 kWh** without an
+These corrections moved **3368 kWh** from "Unexplained" to a known cause: **1853 kWh** to grid
+limitation and **1515 kWh** to strong wind. The total loss did not change, which shows the
+corrections only moved losses between causes. Of the remaining **1199 kWh** without an
 explanation, 399 kWh is T05's reduced output on 6 March; the rest is short periods of slightly
 reduced production.
 
